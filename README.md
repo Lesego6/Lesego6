@@ -19,11 +19,13 @@ ICT Application Development Student| Sol Plaatje University | South Africa
 
 #  Developer Summary 
 
-Motivated **Final Year ICT Application Development student at Sol Plaatje University** with a passion for **building meaningful, beautiful, and functional software**. As I wrap up my undergraduate journey, I'm focused on creating projects that matter — especially in **education accessibility and digital healthcare**.
+**Final Year ICT Application Development student at Sol Plaatje University** with a passion for building useful and user-friendly software.
 
-I specialize in **Java, Python, JavaScript, ASP.NET, Django, C++, and SQL databases**, and I love crafting **solutions that empower people and simplify life**.
+I enjoy creating solutions that improve education access and digital healthcare systems.
 
-Currently putting the finishing touches on my **Final Year Project**, and actively seeking **software development internship opportunities** to kickstart my career! 🚀
+Skilled in **Java, Python, JavaScript, ASP.NET, Django, C++, and SQL, with a focus on developing practical, real-world applications.**
+
+Currently completing my final year project and **looking for software development internship opportunities. 🚀**
 
 ---
 
