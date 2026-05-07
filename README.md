@@ -27,7 +27,7 @@ I specialize in creating applications that address real-world challenges, partic
 **Technical Focus:** Java, Python, JavaScript, ASP.NET, Django, C++, and SQL
 
 🎯 Currently completing my final year project  
-💼 Actively seeking **software development internship opportunities** for 2025  
+💼 Actively seeking **software development internship opportunities** for 2026/7  
 🌍 Based in Kimberley, South Africa
 
 ---
