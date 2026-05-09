@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repos%20(inc.%20private)&query=total_private_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Flesego6&style=flat-square&color=c44536&logo=github"/>
 </p>
 
-> **Note:** If the dynamic private repo badge shows `N/A`, you can manually set it by visiting:  
-> `https://img.shields.io/badge/Total_Repos_(inc._private)-[YOUR_NUMBER]-c44536?style=flat-square&logo=github`
-
----
 
 ## 👩‍💻 About Me
 
@@ -78,13 +74,6 @@ I specialize in creating applications that address real-world challenges, partic
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesego6&theme=github-light&bg_color=f8f9fa&color=2d3561&line=c44536&point=c44536&hide_border=true"/>
 </p>
 
-> *The graph above includes contributions from both public and private repositories, as long as your GitHub email is verified and privacy settings allow.*
-
-To ensure private contributions are counted:
-- Go to GitHub **Settings → Profile → Contribution settings**
-- Check **"Include private contributions on my profile"**
-
----
 
 ## 🚀 Current Projects
 
