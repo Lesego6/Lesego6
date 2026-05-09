@@ -14,12 +14,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lesego6&label=Profile%20Views&color=c44536&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/lesego6?label=Followers&style=flat-square&color=2d3561"/>
-  <!-- Dynamic badges that respect private repos (using GitHub's API via shields.io) -->
-  <img src="https://img.shields.io/github/stars/lesego6?label=Total%20Stars&style=flat-square&color=c44536"/>
-  <img src="https://badges.strrl.dev/repos/lesego6?style=flat-square&color=2d3561&label=Public%20Repos"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repos%20(inc.%20private)&query=total_private_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Flesego6&style=flat-square&color=c44536&logo=github"/>
 </p>
 
+---
 
 ## 👩‍💻 About Me
 
@@ -52,7 +49,7 @@ I specialize in creating applications that address real-world challenges, partic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesego6&layout=compact&theme=tokyonight&title_color=c44536&text_color=4a4a4a&bg_color=f8f9fa&hide_border=true" height="170"/>
 </p>
 
-> ⚠️ *Stats above represent only public repositories. Private repo activity is not displayed for security/privacy reasons but accounts for ~40% of my development work.*
+> **Note:** Stats above represent only public repositories. Private repo activity is not displayed for security/privacy reasons but accounts for a significant portion of my development work.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lesego6&theme=tokyonight&fire=c44536&ring=2d3561&currStreakLabel=c44536&hide_border=true"/>
@@ -75,6 +72,8 @@ I specialize in creating applications that address real-world challenges, partic
 </p>
 
 
+---
+
 ## 🚀 Current Projects
 
 ### 🎓 **Uni NextStep** — Final Year Project
@@ -83,18 +82,30 @@ I specialize in creating applications that address real-world challenges, partic
 - APS score calculator
 - Course matching algorithm
 - *Tech: React, Django, PostgreSQL*
-- *Status: Private until graduation*
+- *Status: Private until graduation
 
 ## 📌 Featured Repositories (Public)
 
 <p align="center">
-  <a href="https://github.com/lesego6/UniNextStep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesego6&repo=UniNextStep&theme=tokyonight&title_color=c44536&icon_color=2d3561&bg_color=f8f9fa&hide_border=true"/>
+  <a href="https://github.com/Lesego6/FastSave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lesego6&repo=FastSave&theme=tokyonight&title_color=c44536&icon_color=2d3561&bg_color=f8f9fa&hide_border=true"/>
   </a>
-  <a href="https://github.com/lesego6/DigitalHospitalSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesego6&repo=DigitalHospitalSystem&theme=tokyonight&title_color=c44536&icon_color=2d3561&bg_color=f8f9fa&hide_border=true"/>
+  <a href="https://github.com/Lesego6/Taste_Heaven">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lesego6&repo=Taste_Heaven&theme=tokyonight&title_color=c44536&icon_color=2d3561&bg_color=f8f9fa&hide_border=true"/>
   </a>
 </p>
+
+### 🎵 **FastSave** — Multi-Platform Video Downloader
+> *Clean, glassmorphism-styled web app for downloading videos from TikTok, Instagram, Pinterest, Facebook, YouTube, Twitter/X and more.*
+- Paste any video URL and preview before downloading
+- Choose quality: Best, 1080p, 720p, or MP3 audio
+- Responsive glassmorphism UI with animated background
+- *Tech: Python, Flask, yt-dlp, HTML/CSS*
+
+### 🍽️ **Taste_Heaven** — Restaurant/Food App
+> *Java-based application (details being finalized)*
+- Built with Java
+- *Tech: Java, Gradle*
 
 <details>
 <summary><b>🔒 Private Repository Highlights</b></summary>
@@ -105,14 +116,6 @@ While not publicly accessible, my private work includes:
 - Personal full-stack application templates
 - Automated testing suites
 </details>
-
----
-
-## 💻 Coding Activity (WakaTime - Public only)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lesego6&theme=tokyonight&title_color=c44536&bg_color=f8f9fa&hide_border=true"/>
-</p>
 
 ---
 
