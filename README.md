@@ -86,14 +86,6 @@ I specialize in creating applications that address real-world challenges, partic
 
 ## 📌 Featured Repositories (Public)
 
-<p align="center">
-  <a href="https://github.com/Lesego6/FastSave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lesego6&repo=FastSave&theme=tokyonight&title_color=c44536&icon_color=2d3561&bg_color=f8f9fa&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Lesego6/Taste_Heaven">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lesego6&repo=Taste_Heaven&theme=tokyonight&title_color=c44536&icon_color=2d3561&bg_color=f8f9fa&hide_border=true"/>
-  </a>
-</p>
 
 ### 🎵 **FastSave** — Multi-Platform Video Downloader
 > *Clean, glassmorphism-styled web app for downloading videos from TikTok, Instagram, Pinterest, Facebook, YouTube, Twitter/X and more.*
