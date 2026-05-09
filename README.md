@@ -96,16 +96,6 @@ To ensure private contributions are counted:
 - *Tech: React, Django, PostgreSQL*
 - *Status: Private until graduation*
 
-### 🏥 **Digital Hospital File System**
-> *Secure electronic medical records management*
-- Patient record digitization
-- Role-based access control
-- Audit logging system
-- *Tech: ASP.NET Core, SQL Server, React*
-- *Status: Private (research collaboration)*
-
----
-
 ## 📌 Featured Repositories (Public)
 
 <p align="center">
