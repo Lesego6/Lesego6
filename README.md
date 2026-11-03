@@ -1,174 +1,167 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3561,100:c44536&height=200&section=header&text=Lesego%20Moeng&fontSize=40&fontColor=ffffff&desc=ICT%20Application%20Development%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a002c,50:8b0000,100:1a002c&height=220&section=header&text=Lesego%20Moeng&fontSize=42&fontColor=ffffff&desc=ICT%20Application%20Development%20Student%20%7C%20Software%20Developer&descAlignY=62&descSize=16&descColor=ff69b4" width="100%"/>
 </p>
 
 <h3 align="center">
-ICT Application Development Student | Sol Plaatje University | South Africa
+⚔️ <i>"Building ideas into real-world software, one commit at a time."</i> ⚔️
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;Java+%7C+Python+%7C+JavaScript+%7C+React;Building+Real-World+Digital+Solutions;Always+Learning%2C+Always+Building&center=true&width=500&height=45&color=2d3561">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ICT+Application+Development+Student+@+Sol+Plaatje+University;Full-Stack+Web+%7C+Backend+APIs+%7C+Databases;C%23+%7C+Java+%7C+Python+%7C+JavaScript+%7C+React;Always+Learning%2C+Always+Building!&center=true&width=550&height=45&color=FF4500">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lesego6&label=Profile%20Views&color=c44536&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/lesego6?label=Followers&style=flat-square&color=2d3561"/>
-</p>
-
----
-
-# About Me
-
-I am an ICT Application Development student at Sol Plaatje University with an interest in building practical, user-focused software solutions.
-
-I enjoy working across different areas of software development, including web applications, backend systems, databases, and emerging technologies. I am continuously improving my skills through university projects and personal development.
-
-### Current Focus
-
-- Full-stack web development
-- Backend development and APIs
-- Database design and integration
-- Python and Java development
-- AI-powered applications
-
-### Technologies I Work With
-
-Java, Python, JavaScript, React, Django, ASP.NET, SQL, C++, HTML and CSS.
-
----
-
-# Technical Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,python,django,react,nodejs,dotnet,mysql,postgresql,git,github,vscode"/>
+  <img src="https://komarev.com/ghpvc/?username=lesego6&label=Profile%20Views&color=8b0000&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/lesego6?label=Followers&style=for-the-badge&color=4b0082"/>
 </p>
 
 ---
 
-# Featured Projects
-
-## Uni NextStep
-
-A university guidance platform designed to help South African students explore higher education opportunities.
-
-Key features include:
-
-- APS score calculation
-- Course recommendations
-- University information
-- Student-focused guidance tools
-- Centralised access to university opportunities
-
-**Tech Stack:** React, Node.js, Express, SQLite
-
-*Currently under active development.*
-
----
-
-## MINDORA
-
-An AI-focused application exploring how technology can be used to create smarter and more interactive digital experiences.
-
-The project focuses on combining software development with artificial intelligence to create useful and user-friendly solutions.
-
-**Focus Areas:**
-
-- Artificial Intelligence
-- Web technologies
-- User interaction
-- Modern software development
+<!-- ABOUT & TECH ARSENAL (2-COLUMN GRID) -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🩸 The Developer's Path</h3>
+      <p>
+        Hi! I'm <b>Lesego Moeng</b>, an ICT Application Development student at Sol Plaatje University in South Africa. I am passionate about software engineering and building practical, user-focused digital solutions.
+      </p>
+      <h4>🔥 Primary Interests:</h4>
+      <ul>
+        <li>⚡ <b>Full-Stack Development:</b> Web applications & responsive UIs</li>
+        <li>⚡ <b>Backend Systems:</b> RESTful APIs & database architecture</li>
+        <li>⚡ <b>Emerging Tech:</b> AI integration & automation tools</li>
+        <li>⚡ <b>Problem Solving:</b> Practical software for real-world impact</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>⚡ Tech Arsenal</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,cs,django,dotnet,mysql,postgres,git,github,vscode&perline=6"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## FastSave
+<!-- S-RANK MISSIONS / FEATURED PROJECTS TABLE -->
+## ⚔️ S-Rank Missions (Featured Projects)
 
-A web-based tool designed to provide a simple interface for processing supported online media links.
-
-Features include:
-
-- URL preview functionality
-- Multiple quality options
-- Audio conversion support
-- Responsive user interface
-- Multi-platform compatibility
-
-**Tech Stack:** Python, Flask, HTML, CSS, JavaScript, yt-dlp
+| Mission | Description | Jutsu Used (Tech Stack) | Status / Details |
+| :--- | :--- | :--- | :---: |
+| 🎓 **Uni NextStep** | University guidance platform for South African students with APS score tools | `React` `Node.js` `Express` `SQLite` | ⭐ *Active Dev* |
+| 🤖 **MINDORA** | AI-focused application blending artificial intelligence with interactive UX | `Python` `AI` `Web Tech` | 🚀 *In Progress* |
+| ⚡ **FastSave** | High-speed online media processing and link downloader tool | `Python` `Flask` `HTML/CSS` `yt-dlp` | 🔧 *Stable* |
+| 🏥 **ClinicQ** | Digital healthcare concept for queue management and clinic discovery | `React Native` `Expo` `JavaScript` | 💡 *Concept* |
 
 ---
 
-## ClinicQ
+<!-- FEATURED PROJECT CARDS GRID -->
+## 🗡️ Mission Archives
 
-A digital healthcare concept focused on improving the patient experience when accessing clinic services.
-
-The project explores features such as:
-
-- Clinic discovery
-- Digital queue management
-- Patient notifications
-- Healthcare information access
-
-**Tech Stack:** React Native, Expo, JavaScript
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Uni NextStep</h3>
+      <p>A centralized university guidance platform tailored for South African matric students to calculate APS scores and discover degree opportunities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 MINDORA</h3>
+      <p>Exploring modern AI techniques to build dynamic, interactive digital user experiences and smart automation routines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ FastSave</h3>
+      <p>Web media processing tool featuring link previews, multi-format audio conversion, and high-performance quality options.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 ClinicQ</h3>
+      <p>Mobile-first healthcare tool streamlining patient waiting times through digital queueing and real-time notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# GitHub Activity
+<!-- GITHUB ACTIVITY & STATS -->
+## 🌃 Contribution Village (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lesego6&show_icons=true&theme=default&title_color=2d3561&icon_color=c44536&text_color=4a4a4a&bg_color=f8f9fa&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesego6&layout=compact&title_color=2d3561&text_color=4a4a4a&bg_color=f8f9fa&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lesego6&show_icons=true&theme=dark&title_color=ff4500&icon_color=ff69b4&text_color=ffffff&bg_color=1a002c&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesego6&layout=compact&theme=dark&title_color=ff4500&text_color=ffffff&bg_color=1a002c&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lesego6&theme=default&fire=c44536&ring=2d3561&currStreakLabel=2d3561&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=lesego6&theme=dark&background=1a002c&fire=ff4500&ring=ff69b4&currStreakLabel=ff4500&hide_border=true"/>
 </p>
 
 ---
 
-# Currently Learning
-
-- Advanced backend development
-- Database architecture
-- REST APIs
-- AI integration in applications
-- Software engineering principles
-- Deployment and cloud technologies
+<!-- CURRENT FOCUS & GOALS -->
+<table>
+  <tr>
+    <width="50%" valign="top">
+      <h3>📜 Currently Training In</h3>
+      <ul>
+        <li>☑️ Advanced backend & RESTful APIs</li>
+        <li>☑️ Database design & optimization</li>
+        <li>☑️ AI model integration in web apps</li>
+        <li>☑️ Cloud deployment & CI/CD workflows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Ultimate Objective</h3>
+      <p>
+        To evolve into a versatile Software Developer delivering scalable, high-impact digital products while collaborating with experienced teams on real-world engineering challenges.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# Goals
-
-My goal is to grow into a skilled software developer capable of building reliable, scalable and meaningful digital products.
-
-I am particularly interested in opportunities where I can learn from experienced developers, contribute to real-world projects and continue developing my technical skills.
-
----
-
-# Connect With Me
+<!-- CONNECT WITH ME -->
+## 🌸 Connect With Me
 
 <p align="center">
-
-<a href="mailto:lesegomoeng0204@gmail.com">
-<img src="https://img.shields.io/badge/Email-c44536?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lesego-moeng-33b07a263">
-<img src="https://img.shields.io/badge/LinkedIn-2d3561?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/lesego6">
-<img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="mailto:lesegomoeng0204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lesego-moeng-33b07a263">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/lesego6">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building, learning and improving one project at a time.</i>
+  <i>"Set your heart ablaze and keep coding!"</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44536,100:2d3561&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:1a002c&height=100&section=footer"/>
 </p>
